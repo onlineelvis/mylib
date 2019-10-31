@@ -1,0 +1,127 @@
+@media screen and (max-width: 1105px) {
+
+
+  .el-press-text h1,
+  .el-press-text p {
+    font-size: 20px;
+  }
+
+  .el-press button,
+  .el-press button a {
+    font-size: 20px;
+  }
+}
+
+
+@media screen and (max-width: 950px) {
+
+  .el-press-text h1,
+  .el-press-text p {
+    font-size: 17px;
+  }
+
+  .el-press-text p {
+    padding-bottom: 17px;
+  }
+
+  .el-press button,
+  .el-press button a {
+    font-size: 15px;
+    padding: 8px;
+  }
+
+}
+
+@media screen and (max-width: 700px) {
+
+  .el-press-text h1,
+  .el-press-text p {
+    font-size: 11px;
+  }
+
+  .el-press-text p {
+    padding-bottom: 12px;
+  }
+
+  .el-press button,
+  .el-press button a {
+    font-size: 12px;
+    padding: 2px;
+  }
+
+
+}
+
+@media screen and (max-width: 400px) {
+
+  .el-press-text h1,
+  .el-press-text p {
+    font-size: 11px;
+  }
+
+  .el-press-text p {
+    padding-bottom: 18px;
+  }
+
+  .el-press button,
+  .el-press button a {
+    font-size: 12px;
+    padding: 2px;
+  }
+
+  #galerjs h1 .el-text-bg {
+    font-size: 18px;
+  }
+
+
+}
+
+@media screen and (max-width: 360px) {
+
+  .el-press-text h1,
+  .el-press-text p {
+    font-size: 9px;
+  }
+
+  .el-press-text p {
+    padding-bottom: 12px;
+  }
+
+  .el-press button,
+  .el-press button a {
+    font-size: 9px;
+    padding: 2px;
+  }
+
+  h1.display-4 {
+    font-size: 28px;
+    font-weight: 600;
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  .el-press-text h1,
+  .el-press-text p {
+    font-size: 8px;
+  }
+
+  .el-press-text h1 {
+    padding-top: 10px;
+  }
+
+  .el-press-text p {
+    padding-bottom: 12px;
+  }
+
+  .el-press button,
+  .el-press button a {
+    font-size: 8px;
+    padding: 2px;
+  }
+
+  h1.display-4 {
+    font-size: 28px;
+    font-weight: 600;
+  }
+}

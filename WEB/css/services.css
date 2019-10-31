@@ -1,0 +1,14 @@
+#services h1 {
+  padding-top: 4%;
+  padding-bottom: 2%;
+  text-align: center;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 170%;
+  letter-spacing: 3px;
+  color: black;
+}
+
+#services {
+  padding-bottom: 2%;
+}

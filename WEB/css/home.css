@@ -1,0 +1,88 @@
+body {
+  background-image: url('https://www.bigrigcompanies.com/siteart/main-image.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+#home {
+  background: purple;
+}
+
+.el-page-one {
+  width: 80%;
+  object-fit: contain;
+  z-index: 1;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#home {
+  position: relative;
+}
+
+div .el-press-text {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+div .el-press {
+  position: absolute;
+  left: 50%;
+  top: 63%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+div .el-press:hover {
+  box-shadow: 8px 8px 10px black;
+  align-items: center;
+  color: aqua;
+}
+
+
+.el-press button,
+.el-press button a {
+  background: aliceblue;
+  font-size: 30px;
+  font-weight: 550;
+  text-decoration-line: none;
+  color: black;
+  background: blanchedalmond;
+}
+
+
+
+.el-press-text h1,
+.el-press-text p {
+  text-align: center;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 150%;
+  color: black;
+
+}
+
+
+
+.el-text-bg {
+  background: whitesmoke;
+}
+
+/* footer */
+.footer {
+  font-size: medium;
+  background: grey;
+  font-weight: 700;
+}
+
+.footer a {
+  color: red;
+}

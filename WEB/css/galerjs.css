@@ -1,0 +1,20 @@
+#galerjs h1 {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 170%;
+  color: black;
+}
+
+.carousel-item img {
+  width: 65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: fill;
+  padding: 2%;
+}
+
+#galerjs {}

@@ -1,0 +1,9 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  opacity: 0.9;
+  z-index: 3;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
