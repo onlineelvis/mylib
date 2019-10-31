@@ -1,0 +1,29 @@
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\bin\Debug\CalculatorWindowsApp.exe.config
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\bin\Debug\CalculatorWindowsApp.exe
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\bin\Debug\CalculatorWindowsApp.pdb
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp_MarkupCompile.cache
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp_MarkupCompile.lref
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.g.resources
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.Properties.Resources.resources
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.exe
+C:\Users\USER\source\repos\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.pdb
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\bin\Debug\CalculatorWindowsApp.exe.config
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\bin\Debug\CalculatorWindowsApp.exe
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\bin\Debug\CalculatorWindowsApp.pdb
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp_MarkupCompile.cache
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp_MarkupCompile.lref
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.g.resources
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.Properties.Resources.resources
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.exe
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorWindowsApp\obj\Debug\CalculatorWindowsApp.pdb
