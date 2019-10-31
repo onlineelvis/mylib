@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\bin\Debug\netcoreapp2.1\38.Uzdevums.deps.json
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\bin\Debug\netcoreapp2.1\38.Uzdevums.runtimeconfig.json
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\bin\Debug\netcoreapp2.1\38.Uzdevums.runtimeconfig.dev.json
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\bin\Debug\netcoreapp2.1\38.Uzdevums.dll
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\bin\Debug\netcoreapp2.1\38.Uzdevums.pdb
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\obj\Debug\netcoreapp2.1\38.Uzdevums.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\obj\Debug\netcoreapp2.1\38.Uzdevums.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\obj\Debug\netcoreapp2.1\38.Uzdevums.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\obj\Debug\netcoreapp2.1\38.Uzdevums.AssemblyInfo.cs
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\obj\Debug\netcoreapp2.1\38.Uzdevums.dll
+C:\Users\USER\source\repos\38.Uzdevums\38.Uzdevums\obj\Debug\netcoreapp2.1\38.Uzdevums.pdb
