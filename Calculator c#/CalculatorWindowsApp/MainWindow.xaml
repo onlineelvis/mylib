@@ -1,0 +1,27 @@
+﻿<Window x:Class="CalculatorWindowsApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalculatorWindowsApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="Number 1:" Margin="279,0,281,0"></Label>
+        <TextBox x:Name="TBnumber1" Margin="279,0,281,0" Height="33" FontSize="25"></TextBox>
+        
+        
+
+        <Label Content="Number 2:" Margin="279,0,281,0"></Label>
+        <TextBox x:Name="TBnumber2" Margin="279,0,281,0" Height="33" FontSize="25" TextChanged="TBnumber2_TextChanged"></TextBox>
+
+        <Button Click="Button_Click" Margin="279,0,281,0" Height="35">+</Button>
+        <Button Click="Button_Click2" Margin="279,0,281,0" Height="35">-</Button>
+        <Button Click="Button_Click3" Margin="279,0,281,0" Height="35">*</Button>
+        <Button Click="Button_Click4" Margin="279,0,281,0" Height="35">/</Button>
+
+        <Label Height="35" Margin="279,0,281,0" RenderTransformOrigin="0.646,0.556" FontSize="20" Background="AliceBlue">Your calculaion</Label>
+        <Label x:Name="result" Margin="279,0,281,0" Height="30" FontSize="18" Background="GreenYellow">Here come's result</Label>
+        
+    </StackPanel>
+</Window>

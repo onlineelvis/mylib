@@ -1,0 +1,21 @@
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.deps.json
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.runtimeconfig.json
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.dll
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.pdb
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.AssemblyInfo.cs
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.dll
+C:\Users\USER\source\repos\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.pdb
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.deps.json
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.runtimeconfig.json
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.runtimeconfig.dev.json
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.dll
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\bin\Debug\netcoreapp2.1\CalculatorConsoleApp.pdb
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.dll
+C:\Users\USER\Desktop\RigaCodingSchool\Klases darbi\Calculator\CalculatorConsoleApp\obj\Debug\netcoreapp2.1\CalculatorConsoleApp.pdb
